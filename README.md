@@ -1,7 +1,7 @@
 # XRE_GroceryStore
 XRE Coding Challenge, Online Grocery Store
 
-I made a couple of assumptions for this project, as the specifics details were not outlined.
+I made a couple of assumptions for this project, as the specific details were not outlined.
 
 First, since the brief explicitly said: "Each order should contain the minimal number of packs", as such my solution prioritizes delivering the smallest total number of packs over achieveing an exact match, this can be seen clearly in the 6th test example.
 It does however attempt to minimize excess product, provided that it will not increase total packs sent, this can be seen in test example 7.
