@@ -8,3 +8,5 @@ It does however attempt to minimize excess product, provided that it will not in
 
 The second assumption I made is that the format for input should be a uniform 'PRODUCT' then 'NUMBER' in full uppercase. I set it this way on the premise that the actual input would be sent by another computer, not hand-written by a user.
 However, the program is set up to catch various forms of invalid input to avoid simple input mistakes.
+
+Note, this program uses ValueTuples, so it needs to be complied with .NET 4.7 or later.
